@@ -1,1 +1,1 @@
-Hello!
+Dette er et testprosjekt for å prøve Git
